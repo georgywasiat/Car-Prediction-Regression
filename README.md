@@ -1,3 +1,3 @@
 # car-prediction-regression
 
-Proyek Prediksi Regresi Mobil bertujuan untuk mengembangkan model regresi linear yang mampu memprediksi harga mobil berdasarkan berbagai fitur yang mempengaruhi nilai mobil, seperti tenaga kuda, berat, tahun pembuatan, dan atribut lainnya. Dalam proyek ini, algoritma regresi linear digunakan untuk memodelkan hubungan antara variabel independen (fitur mobil) dan variabel dependen (harga mobil).
+The Car Prediction Regression project aims to develop a linear regression model capable of predicting car prices based on various features that influence the value of the car, such as horsepower, weight, manufacturing year, and other attributes. In this project, a linear regression algorithm is employed to model the relationship between independent variables (car features) and the dependent variable (car price).
